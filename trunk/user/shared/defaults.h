@@ -37,7 +37,7 @@
 
 #define DEF_WLAN_2G_CC		"US"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	"xiaomo"
+#define DEF_WLAN_2G_SSID	"xiaomi"
 #define DEF_WLAN_5G_SSID	"xiaomi_5G"
 #define DEF_WLAN_2G_GSSID	"xiaomi_GUEST"
 #define DEF_WLAN_5G_GSSID	"xiaomi_GUEST_5G"
